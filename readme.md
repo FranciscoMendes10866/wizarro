@@ -2,7 +2,7 @@
 
 In this exercise it was intended to create an array with about 1 billion elements.
 
-To this end, the distribution of the filling of the appropriate array was made.
+For that, the distribution of the filling of the due array was made.
 
 When all the processing was done by only one thread, it took much longer, because this single thread was responsible for filling the entire array with integers.
 
