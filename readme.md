@@ -1,6 +1,6 @@
 ## wizaro 🦥
 
-In this exercise it was intended to create an array with about 1 billion elements.
+In this exercise it was intended to create an array with about `1 billion elements`.
 
 For that, the distribution of the filling of the due array was made.
 
@@ -14,5 +14,5 @@ Threads  | Time
 8  | 2.285
 
 ```
-A 53.6% increase in performance.
+Performance increase of around 54%.
 ```
